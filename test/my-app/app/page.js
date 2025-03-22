@@ -40,7 +40,7 @@ export default function Home() {
       <section className="bg-[#D1E7DD] text-center mx-4 md:mx-auto mt-6 p-6 rounded-lg relative">
         <h2 className="text-2xl text-black font-bold">Hey there! Welcome to my website!</h2>
         <p className="text-gray-800 mt-4">
-          I'm Ozumi Yashoda, a friendly and creative graphic designer. I'm all about building a community
+          Im Ozumi Yashoda, a friendly and creative graphic designer. Im all about building a community
           and helping new VTubers shine in the virtual world. Join me on this exciting journey of creativity
           and support, where we'll bring your virtual persona to life and create an amazing community together!
           <span className="ml-1">🤔</span>
